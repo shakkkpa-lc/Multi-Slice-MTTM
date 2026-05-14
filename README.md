@@ -8,7 +8,7 @@ PyTorch implementation of "Multi-Slice Triple-Branch Transformer-Mamba Architect
 Qualitative comparison of $T_1$ and $T_2$ parameter maps reconstructed by different methods using Brainweb data (Data length $L = 200$). Our proposed MTTM architecture demonstrates superior high-fidelity reconstruction capabilities.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e5e235c-6932-4513-ad75-61280ec22782" alt="BrainWeb Results" width="100%">
+  <img src="https://github.com/user-attachments/assets/ec1104fc-8172-42d9-a062-4347bd535568" alt="BrainWeb Results" width="100%">
   <br>
   <em>Fig. 1: The parameter maps reconstructed by different methods using Brainweb data from the brain model with data length L = 200.</em>
 </p>
