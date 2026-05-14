@@ -16,7 +16,7 @@ Qualitative comparison of $T_1$ and $T_2$ parameter maps reconstructed by differ
 Qualitative comparison of $T_1$ and $T_2$ parameter maps reconstructed by different methods using 3D MRF dataset (Data length $L = 200$).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/753daa21-13aa-4ed9-8f53-ab1860afca23" alt="3D MRF Results" width="100%">
+  <img src="https://github.com/user-attachments/assets/24e9e487-8d31-4e19-be43-044493e55ab1" alt="3D MRF Results" width="100%">
   <br>
   <em>Fig. 2: Reconstructed T1 and T2 maps from different methods on simulated 3D MRF dataset (L = 200).</em>
 </p>
