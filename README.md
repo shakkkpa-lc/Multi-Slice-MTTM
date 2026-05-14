@@ -1,4 +1,4 @@
-# Multi-Slice-MTTM
+# Multi-Slice-STTM
 PyTorch implementation of "Multi-Slice Triple-Branch Transformer-Mamba Architecture for MRF Parameter Quantification"
 
 > **Note:** Code will be made publicly available upon acceptance of the paper.
